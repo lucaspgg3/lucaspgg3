@@ -30,43 +30,27 @@ Durante minha trajetória profissional, ajudei a criar soluções escaláveis, m
 
 ### 🤖 Linguagens e tecnologias
 
-<img  align="left" alt="Angular" title="Angular" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<div align="center">
 
-<img align="left" alt="JavaScript" title="JavaScript" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GiHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<img align="left" alt="TypeScript" title="TypeScript" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img align="left" alt="Node.js" title="Node.js" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
-<img align="left" alt="Python" title="Python" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img align="left" alt="HTML5" title="HTML5" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img align="left" alt="CSS3" title="CSS3" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<img align="left" alt="SASS" title="SASS" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-
-<img align="left" alt="BootStrap" title="BootStrap" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<img align="left" alt="MySQL" title="MySQL" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img align="left" alt="PostgreSQL" title="PostgreSQL" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<img align="left" alt="Oracle" title="Oracle" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-
-<img align="left" alt="Redis" title="Redis" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-
-<img align="left" alt="Git" title="Git" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
-<img align="left" alt="GiHub" title="GiHub" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
-<img align="left" alt="GitHub Actions" title="GitHub Actions" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-
-<img align="left" alt="AWS" title="AWS" style="padding-right: 10px; padding-bottom: 10px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-<br/>
-<br/>
-<br/>
+</div>
 
 ### 📊 Estatísticas
 
@@ -76,7 +60,7 @@ Durante minha trajetória profissional, ajudei a criar soluções escaláveis, m
 
 <!-- <p>
   <img 
-    align="left" 
+   
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -84,7 +68,7 @@ Durante minha trajetória profissional, ajudei a criar soluções escaláveis, m
   />
 
 <img 
-      align="left" 
+     
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspgg3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
