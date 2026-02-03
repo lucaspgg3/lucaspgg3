@@ -79,3 +79,9 @@ Durante minha trajetória profissional, ajudei a criar soluções escaláveis, m
 ### 📨 Contato
 
 * Linkedin: https://www.linkedin.com/in/lucas-vinicius-587406118/
+
+<div align="center">
+
+![snake gif](https://github.com/lucaspgg3/lucaspgg3/blob/output/ocean.gif)
+
+</div>
